@@ -31,7 +31,7 @@ jobs:
       - run: cd ./template && npm run build
       - run: cp -r ./template/out .
       - run: touch ./out/.nojekyll
-      - run: cp ./data/CNAME ./out
+      # - run: cp ./data/CNAME ./out
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.6.2
