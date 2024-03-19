@@ -7,9 +7,7 @@ image:
 author:
   slug: kapil-maharjan
   name: Kapil Maharjan
-  bio: As a Lead Engineer, I have been setting the technical direction, driving innovation, and overseeing multiple teams for over seven months.
-I have a decade of experience in mobile app development, spanning native and cross-platform frameworks, such as Android, iOS, Flutter, and React Native.
-I have also been leading and managing teams, mentoring leaders, and contributing to open source projects.
+  bio: "As a Lead Engineer, I have been setting the technical direction, driving innovation, and overseeing multiple teams for over seven months. I have a decade of experience in mobile app development, spanning native and cross-platform frameworks, such as Android, iOS, Flutter, and React Native.I have also been leading and managing teams, mentoring leaders, and contributing to open source projects."
 slug: test-blog
 title: A test blog
 categories:
